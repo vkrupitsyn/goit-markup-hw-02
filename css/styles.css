@@ -200,7 +200,3 @@ body {
   line-height: 1.88;
   color: var(--secondary-text-color);
 }
-
-.portfolio li {
-  border: 1px solid var(--border-color);
-}
